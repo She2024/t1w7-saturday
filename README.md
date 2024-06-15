@@ -11,4 +11,17 @@
 Python comes with a lot of modules as well, Pythons Standard Library
 
 # Packages
-- 
+- Collection of modules
+- organise related miodules under one directory
+- Initialise a package using __init__.py file
+
+## Practical Example
+Task:
+- Create a package for basic text processing with modules for:
+    - Counting words in a string,
+    - Counting characters in a string, and
+    - Reversing strings.
+
+# Slicing a sequence
+- Way to extract parts of data structures, like strings, lists, tuples.
+- Sytax: sequence [start:stop:step] (like range)
